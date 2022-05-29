@@ -12,3 +12,7 @@ The format of the output is:
 - `<erd_address>,<nft_token_identifier>,<nft_token_asset_file_name>`
 
 Addresses with multiple tokens will be displayed as additional CSV rows. See the example in `data/output.csv`. The output won't cover the number of tokens per address. You would need to count the rows with the same address.
+
+---
+
+**Check how to use the:** [elven-tools collection-nft-owners](https://www.elven.tools/docs/recipes.html#how-to-get-owners-addresses-using-the-collection-ticker)
