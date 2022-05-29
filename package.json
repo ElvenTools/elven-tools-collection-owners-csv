@@ -1,0 +1,12 @@
+{
+  "name": "elven-tools-collection-owners-csv",
+  "version": "0.0.1",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "generate": "cd data && node ../index.js"
+  },
+  "author": "Julian Ćwirko <julian.io>",
+  "license": "MIT"
+}
